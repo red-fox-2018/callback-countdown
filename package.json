@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/red-fox-2018/callback-countdown/issues"
   },
-  "homepage": "https://github.com/red-fox-2018/callback-countdown#readme"
+  "homepage": "https://github.com/red-fox-2018/callback-countdown#readme",
+  "devDependencies": {}
 }
