@@ -1,6 +1,6 @@
 const clear = require("clear");
 const figlet = require("figlet");
-const chalk = require("chalk");
+const chalk = require("chalk"); 
 
 const displayCountdown = seconds => {
   clear();
